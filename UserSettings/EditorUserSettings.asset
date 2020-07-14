@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649500d1002ee0b5dbd1d2c27c00ad113cb1e10e41f1addc80993b9838f9ab381b2be8e878bf8a0a0a2bfa0adbde7f69580f3d2a3b5f1bfbbc3cbebc7cca4c1d8849393e29c819ffcdeede0d0cc8094839c9ac39bd7f1d8fbdef4f7c0f3f1c7ccf0cafacfcbd0f079f1f5313f3526eaa1a5fac2bfb56c8079728b896073aa786e859a98cbc864ce99b1b5804191909541b79f9d75dc178a735a652f23585771655b6465556e58514d2f7b67373321366a76481e2b3d244b474172674347264e2e7a1601746f0243326d7f5b43531d5b5242585b252427300b3760797b68456a6b1a17182007355f68fb752ca16b66b0bc7bb977aff7ae58a5556bbea6eae5464e050703190cef23d0c50211c7d025c0dd1f5d4602a0d75ebe4fb4489cb9bab885bcbebba3bd89bda68abcb1e8e7a2f4affeb1aafdafaafbfba9e897e4e2e49cebd6da
+      flags: 0
+    lightmappingDeviceAndPlatform:
+      value: 53
+      flags: 0
+    unity-properties__ui-persistent-state:
+      value: 183b144645154b7d0202082d05376c0417031d6876681d5a6d695d73a2a07478f98d76a9a77a7f7c7942af7c447e4314f7134b51b646595d4656a45740a8425f7b8558855a885f5c8b595c8e8d5fe7e2d9c3d1a882abe1d9d2cca598b4b0aeb8b5b1e5bbb7e49680eaefbef1ef8287dfab8af7848c868987fa929193fe91f9d6c094df9694d68d838cdcf1dff1c5ffe8f9e1e4d6d5e5d9ebdddedcf220f199616a726df8e6f8a292a8bc07c33230c4c83237c6643be0cfccc9d23fccd4ce8ae502dad9db06dbdadb21de0dde2364657a230f28183b013b3c0c3d350b083a6d196566643a683b37686e6f700206767f44504477117a2c5e453f550e417f121714111a1a18361619174a6261634e384863696655666957686b695d705f19e52e76b97179b7bc61b96cb9b7b557a44f55b0b6b7b84a4c4846504d49bd51f4c1180dc7854c89d3080a1973a28f5ca45ea15f92f783ab96abaad6bd849daeb19fb2c3f0a2f1abfbbcf6f3a5cae8afb9f8f399f58d89a0a5
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0

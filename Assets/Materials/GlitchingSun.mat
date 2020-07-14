@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GlitchingSun
+  m_Shader: {fileID: -6465566751694194690, guid: 7eb9a6f012bed3148b622629660a4896, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5699BEED:
+        m_Texture: {fileID: 2800000, guid: d60dcea460719914d86532df8c7fc1dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_483D0522_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4812a332abd07074795556d8d85627f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1E6DFF6: 3.3
+    - Vector1_8961B7B3: 10
+    - Vector1_B0A99985: 1
+    - Vector1_C42A15BA: 1.57
+    - Vector1_F40CE13A: 5
+    - Vector1_FB036C0C: 5
+    - Vector1_FF04D0BC: 0.1
+    m_Colors:
+    - Color_284CD15F: {r: 1, g: 0.5023565, b: 0, a: 0}
+    - Color_F92C69A8: {r: 1, g: 0, b: 0.07551575, a: 0}
+    - Vector2_BF6809D8: {r: 1.11, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
